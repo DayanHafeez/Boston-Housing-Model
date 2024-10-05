@@ -1,2 +1,2 @@
 # Boston-Housing-Model
-Simple Neural Network Model for predicting house value based on characteristics
+Simple Neural Network Regression Model for predicting house value based on characteristics
